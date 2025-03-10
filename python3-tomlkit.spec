@@ -7,7 +7,7 @@ Summary:	Style preserving TOML library
 Summary(pl.UTF-8):	Biblioteka TOML zachowująca styl
 Name:		python3-tomlkit
 Version:	0.11.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tomlkit/
